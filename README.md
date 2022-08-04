@@ -1,6 +1,9 @@
 # Relógio Digital - Tema InuYasha
 Relógio Digital utilizando HTML, CSS e JS
 
+## Inspiração do projeto
+[Larissa Kich](https://github.com/Larissakich)
+
 ## Referência 
 [Imagem do Inuyasha](https://www.wallpaperflare.com/anime-inuyasha-inuyasha-character-wallpaper-cknxg)
 
